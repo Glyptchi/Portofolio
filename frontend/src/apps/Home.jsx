@@ -29,8 +29,8 @@ const Home = () => {
     />
 
     <main className="relative z-10">
-      <h1 className="text-4xl font-semibold tracking-tight">
-        Almas Yafi'.
+      <h1 className="text-6xl font-semibold tracking-tight py-40 px-80">
+        Almas Yafi'
       </h1>
     </main>
   </div>
